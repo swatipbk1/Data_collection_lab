@@ -1,3 +1,6 @@
+/Converting 2D objects to string*/
+
+
 let arr = [{ id: "42", name: "Bruce", occupation: "Knight", age: 41 },
  { id: "48", name: "Barry", occupation: "Runner", age: 25 }, 
  { id: "57", name: "Bob", occupation: "Fry Cook", age: 19 },
